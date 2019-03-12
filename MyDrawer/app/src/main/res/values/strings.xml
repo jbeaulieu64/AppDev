@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyDrawer</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+    <string-array name="sliding_drawer_array">
+        <item>Profile</item>
+        <item>Settings</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Text To Speech</string>
+    <string name="help">Press the Record Voice button to start recording your voice.
+    To here the text to speech please press the Play back button.</string>
+    <string name="recordButton">Record Voice.</string>
+    <string name="text">(Recorded text will be displayed here).</string>
+    <string name="readTextButton">Play back recorded Text.</string>
+    <string name="tryHelp">Please try the record button on your keyboard.</string>
+</resources>

@@ -1,0 +1,10 @@
+*.iml
+.gradle
+/local.properties
+/.idea/*
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+app/src/main/java/t5/comp3660/recipefinder/SpoonacularRequest.java
+app/release
